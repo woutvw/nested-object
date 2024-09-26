@@ -11,7 +11,7 @@ A PHP class that allows you to create nested objects with the flexibility of JSO
 Install the package via Composer:
 
 ```bash
-composer require woutvanwonterghem/nested-object
+composer require woutvw/nested-object
 ```
 
 ## Usage
