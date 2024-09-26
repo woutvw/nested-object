@@ -1,8 +1,8 @@
 # Nested Object for PHP
 
-[![Latest Stable Version](https://poser.pugx.org/woutvanwonterghem/nested-object/v/stable)](https://packagist.org/packages/woutvanwonterghem/nested-object)
-[![Total Downloads](https://poser.pugx.org/woutvanwonterghem/nested-object/downloads)](https://packagist.org/packages/woutvanwonterghem/nested-object)
-[![License](https://poser.pugx.org/woutvanwonterghem/nested-object/license)](https://packagist.org/packages/woutvanwonterghem/nested-object)
+[![Latest Stable Version](https://poser.pugx.org/woutvw/nested-object/v/stable)](https://packagist.org/packages/woutvw/nested-object)
+[![Total Downloads](https://poser.pugx.org/woutvw/nested-object/downloads)](https://packagist.org/packages/woutvw/nested-object)
+[![License](https://poser.pugx.org/woutvw/nested-object/license)](https://packagist.org/packages/woutvw/nested-object)
 
 A PHP class that allows you to create nested objects with the flexibility of JSON objects, but with the advantages of PHP classes.
 
