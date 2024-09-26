@@ -1,0 +1,17 @@
+{
+    "name": "woutvw/nested-object",
+    "description": "A PHP class that allows creating nested objects with the flexibility of JSON but the advantages of PHP classes.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wout",
+            "email": "wout@meetmatch.biz"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "WoutVW\\": "src/"
+        }
+    }
+}
