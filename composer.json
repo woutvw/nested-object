@@ -1,6 +1,10 @@
 {
     "name": "woutvw/nested-object",
     "description": "A PHP class that allows creating nested objects with the flexibility of JSON but the advantages of PHP classes.",
+    "type": "library",
+    "keywords": [
+        "nested object"
+    ],
     "license": "MIT",
     "authors": [
         {
